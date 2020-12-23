@@ -13,7 +13,7 @@
 ## Demo
 Link: [https://data-mining-g3.herokuapp.com/](https://data-mining-g3.herokuapp.com/)
 
-[![](https://imgur.com/eogu4iK.png)](https://data-mining-g3.herokuapp.com/)
+[![](https://imgur.com/2QO7SwT.png)](https://data-mining-g3.herokuapp.com/)
 
 
 ## Tổng quan
