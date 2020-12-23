@@ -4,7 +4,7 @@
   * [Demo](#demo)
   * [Tổng quan](#tongquan)
   * [Thông tin tập dữ liệu](#thongtintapdulieu)
-  * [Xây dựng demo](#xây dựng demo)
+  * [Xây dựng demo](#xaydungdemo)
   * [Cây thu mục](#caythumuc)  
   * [Công cụ và thư viện được sử dụng](#congngheduocsudung)
   
@@ -27,11 +27,17 @@ Link: [https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients/](
 ## Xây dựng demo
  
  ─Đào tạo mô hình phân loại sử dụng RandomForestClassifier để dự đoán về tình trạng vỡ. nợ thể tín dụng tháng tiếp theo của khách hàng.
+ 
 ─Làm sạch dữ liệu.
+
 ─Áp dụng mô hình phân loại máy học. 
+
 ─Xây dụng ứng dụng web trên Heroku.
+
 ─Tải demo lên Github.
+
 ─Nhận thông tin của khách hàng từ ứng dụng Web.
+
 ─Hiển thị dự đoán.
 
 ## Cây thư mục
