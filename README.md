@@ -14,9 +14,9 @@
   * [Credits](#credits)
 
 ## Demo
-Link: [https://credit-card-defaulter-predict.herokuapp.com/](https://credit-card-defaulter-predict.herokuapp.com/)
+Link: [https://dry-beyond-59356.herokuapp.com/](https://dry-beyond-59356.herokuapp.com/)
 
-[![](https://i.imgur.com/4HjhfDQ.png)](https://credit-card-defaulter-predict.herokuapp.com/)
+[![](https://i.imgur.com/4HjhfDQ.png)](https://dry-beyond-59356.herokuapp.com/)
 
 
 ## Overview
