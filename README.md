@@ -1,15 +1,13 @@
-# Credit Card Defaulter prediction 
+# Credit Card Defaulter Prediction Demo
 
-## Table of Content
+## Nội dung
   * [Demo](#demo)
-  * [Overview](#overview)
+  * [Tổng quan](#tongquan)
   * [Motivation](#motivation)
-  * [Dataset Information](#dataset-information)
+  * [Thông tin tập dữ liệu](#thongtintapdulieu)
   * [Technical Aspect](#technical-aspect)
-  * [Installation](#installation)
-  * [Depoyment on Heroku](#deployment_on_heroku)
-  * [Directory Tree](#directory-tree)  
-  * [Technologies Used](#technologies-used)
+  * [Cây thu mục](#caythumuc)  
+  * [Công nghệ được sử dụng](#congngheduocsudung)
   
   
 
@@ -19,8 +17,8 @@ Link: [https://data-mining-g3.herokuapp.com/](https://data-mining-g3.herokuapp.c
 [![](https://imgur.com/ntPOS8O)](https://data-mining-g3.herokuapp.com/)
 
 
-## Overview
-This is a classification model for a most common dataset, Credit Card defaulter prediction. Prediction of the next month credit card defaulter based on demographic and last six months behavioral data of customers.
+## Tổng quan
+Đây là mô hình phân loại cho một tập dữ liệu phổ biến nhất, dự đoán về tình trạng vỡ nợ thẻ dụng của tháng tiếp theo dựa trên dữ liệu nhân khẩu học và hành vi 6 tháng vừa qua của khách hàng.
 
 ## Motivation
 There are times when even a seemingly manageable debt, such as credit cards, goes out of control. Loss of job, medical crisis or business failure are some of the reasons that can impact your finances. In fact, credit card debts are usually the first to get out of hand in such situations due to hefty finance charges (compounded on daily balances) and other penalties.
@@ -29,12 +27,10 @@ A lot of us would be able to relate to this scenario. We may have missed credit 
 
 To reduce the risk of Banks, this model has been developed to predict customer defaulter based on demographic data like gender, age, marital status and behavioral data like last payments, past transactions etc.
 
-## Dataset Information
+## Thông tin tập dữ liệu
 Link: [https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients/](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients/)
 
-This project wouldn't have been possible without this dataset.
-
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in _Taiwan from April 2005 to September 2005_.
+Đồ án sẽ không thể thực hiện được nếu như không có tập dữ liệu này. Tập dữ liệu này chứa các thông tin về thanh toán mặc định, các yếu tố nhân khẩu học, dữ liệu tín dụng, lịch sử thanh toán và bảng sao kê hóa đơn của các khách hàng sử dụng thẻ tín dụng ở Đài Loan từ tháng 4 năm 2005 đến tháng 9 năm 2005.
 
 ## Technical Aspect
 This project is divided into two part:
@@ -48,18 +44,7 @@ This project is divided into two part:
     - Get the customer information from Web app
     - Display the prediction 
 
-## Installation
-The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
-```bash
-pip install -r requirements.txt
-```
-
-## Depoyment on Heroku
-Create a new repositoryon [GitHub](https://github.com) and upload the project.
-
-Follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
-
-## Directory Tree 
+## Cây thư mục
 ```
 ├── templates 
 │   └── index.html
@@ -72,7 +57,7 @@ Follow the instruction given on [Heroku Documentation](https://devcenter.heroku.
 └── requirements.txt
 ```
 
-## Technologies Used
+## Công nghệ được sử dụng
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
