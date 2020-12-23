@@ -10,8 +10,8 @@
   * [Depoyment on Heroku](#deployment_on_heroku)
   * [Directory Tree](#directory-tree)  
   * [Technologies Used](#technologies-used)
-  * [Team](#team)
-  * [Credits](#credits)
+  
+  
 
 ## Demo
 Link: [https://dry-beyond-59356.herokuapp.com/](https://dry-beyond-59356.herokuapp.com/)
