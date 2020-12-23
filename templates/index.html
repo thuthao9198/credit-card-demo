@@ -20,6 +20,19 @@ body  {
     width: 35%;
     border: 2px groove;
 }
+.button {
+  background-color: Crimson;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+	background-color: midnightblue;
+}
 </style>
 <body>
 	
@@ -32,7 +45,7 @@ body  {
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
 		<fieldset style="float:left;height: 390px;">
-			<legend><b>Demographic data:</b></legend>
+			<legend></legend>
 			<p><b>Gender:</b></p>
 			<input type="radio" id="male" name="gender" value="1" required="required" />
 			<label for="male">Male</label>
@@ -71,7 +84,7 @@ body  {
 			
 		</fieldset>
 		<fieldset style="height: 390px;">
-			<legend><b>Behavioral data:</b></legend>
+			<legend></legend>
 			<div class="repay_status_parent">
 				<p><b>Repayment Status:</b><br>
 										
@@ -164,7 +177,7 @@ body  {
 		</fieldset>
 		<br>
 		<div style="text-align:center;">
-			<button type="submit" class="btn btn-primary btn-block btn-large"><b>Predict</b></button>
+			<button type="submit" class="button"><b>Predict</b></button>
 		</div>
     </form>
 	<br>
