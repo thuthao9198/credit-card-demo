@@ -14,9 +14,9 @@
   
 
 ## Demo
-Link: [https://dry-beyond-59356.herokuapp.com/](https://dry-beyond-59356.herokuapp.com/)
+Link: [https://data-mining-g3.herokuapp.com/]https://data-mining-g3.herokuapp.com/)
 
-[![](https://i.imgur.com/4HjhfDQ.png)](https://dry-beyond-59356.herokuapp.com/)
+[![](https://i.imgur.com/4HjhfDQ.png)](https://data-mining-g3.herokuapp.com/)
 
 
 ## Overview
