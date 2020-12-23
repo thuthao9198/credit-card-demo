@@ -14,9 +14,9 @@
   
 
 ## Demo
-Link: [https://data-mining-g3.herokuapp.com/]https://data-mining-g3.herokuapp.com/)
+Link: [https://data-mining-g3.herokuapp.com/](https://data-mining-g3.herokuapp.com/)
 
-[![](https://i.imgur.com/4HjhfDQ.png)](https://data-mining-g3.herokuapp.com/)
+[![](https://imgur.com/ntPOS8O)](https://data-mining-g3.herokuapp.com/)
 
 
 ## Overview
